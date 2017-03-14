@@ -7,5 +7,8 @@
     "axios": "^0.15.3",
     "p-forever": "^1.0.0"
   },
-  "repository": "phelma/wiktionary-fetch"
+  "repository": "phelma/wiktionary-fetch",
+  "scripts": {
+    "start": "node wiktionaryFetch"
+  }
 }
