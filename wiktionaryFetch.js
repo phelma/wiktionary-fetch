@@ -16,7 +16,7 @@ let params = {
   action :'query',
   format :'json',
   list   :'categorymembers',
-  cmtitle:'Category:English_lemmas',
+  cmtitle:'Category:English_non-lemma_forms',
   cmlimit:500
 };
 
